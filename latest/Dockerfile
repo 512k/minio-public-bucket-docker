@@ -1,4 +1,5 @@
-FROM minio/minio:RELEASE.2020-05-08T02-40-49Z
+# Image page: <https://hub.docker.com/r/minio/minio>
+FROM minio/minio:RELEASE.2021-02-14T04-01-33Z
 
 LABEL \
     org.label-schema.name="minio-public-bucket" \
