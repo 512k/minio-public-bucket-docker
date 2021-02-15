@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog][keepachangelog] and this project adher
 
 ## v1.1.0
 
-### Added
+### Changed
 
 - Base image for `latest` docker tag updated from `RELEASE.2020-05-08T02-40-49Z` to `RELEASE.2021-02-14T04-01-33Z`
 
